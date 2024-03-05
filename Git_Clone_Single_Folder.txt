@@ -6,7 +6,6 @@ git sparse-checkout set --no-cone <folderName>
 git checkout
 
 
-
 #To clone only single entire branch:
 
 git clone --single-branch --branch <branchName> https://github.com/phaneendra218/PhKaEng01112023.git
